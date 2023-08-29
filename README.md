@@ -23,6 +23,6 @@ folder and stored it. The data is provided by Motivation International Inc under
 identifiable information. The data has columns that will help me to compare users and the differences in how they use the bikes. Every single dataset contains the same column which shows us that it is organized.
 
 ## Process
-I will be choosing MySQL to analyze this project as the combined data of 12 data files amounts to capacity unable to be handled by Excel because of the rows exceeding.
+The 12 datasets will be combined into one for easier manipulation, and cleaning of data. I will be choosing MySQL to analyze this project as Excel is unable to manage large amounts of data.
 
 
