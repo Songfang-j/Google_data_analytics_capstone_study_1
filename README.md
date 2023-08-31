@@ -1,7 +1,7 @@
 # Google_data_analytics_course_cyclistic_capstone_study
 
 ## Introduction
-This is a capstone study provided in the Google Data Analytics course, I will be Performing an analysis of the bikeshare company's data over a span of 12 months(2020-04 to 2021-03) to answer
+This is a capstone study provided in the Google Data Analytics course, I will be Performing an analysis of the bikeshare company's data for 3  months(2020-04 to 2022-06) to answer
 the business questions required and follow the six steps of the data analysis process. This study will introduce me to the role of a job-ready junior data analyst.
 
 ## Scenario
@@ -18,11 +18,11 @@ The insights that we gain from these questions will help us in recommending mark
 
 ## Prepare
 The Data that we require for analysis has been made available publicly and can be downloaded from [trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html). This data has been claimed appropriate by Google
-so the validation and credibility are verified. I have chosen the data for 12 months from 2020-04 to 2021-03, The data is named in the format YYYYMM and is listed in the trip_data. I have downloaded the data in a 
-folder and stored it. The data is provided by Motivation International Inc under the [License](https://ride.divvybikes.com/data-license-agreement). The data respects the user's privacy as it doesn't use any personal
-identifiable information. The data has columns that will help me to compare users and the differences in how they use the bikes. Every single dataset contains the same column which shows us that it is organized.
+so the validation and credibility are verified. I have chosen the data for 3 months from 2020-04 to 2020-06, The data is named in the format YYYYMM and is listed in the trip_data. I have downloaded the data in a 
+folder extracted it and stored the .csv files on a folder. The data is provided by Motivation International Inc under the [License](https://ride.divvybikes.com/data-license-agreement). The data respects the user's privacy
+as it doesn't use any user's personal identifiable information. The data has columns that will help me to compare users and the differences in how they use the bikes. Every single dataset contains the same column which shows us that it is organized.
 
 ## Process
-The 12 datasets will be combined into one for easier manipulation, and cleaning of data. I will be choosing MySQL to analyze this project as Excel is unable to manage large amounts of data.
+The 3 datasets will be combined into one for easier manipulation, and cleaning of data. I will be choosing MySQL to analyze this project as Excel is unable to manage large amounts of data.
 
 
